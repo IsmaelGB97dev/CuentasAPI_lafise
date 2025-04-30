@@ -1,0 +1,103 @@
+[
+  {
+    "ContainingType": "CuentasBancariasLafise.Controllers.ClienteController",
+    "Method": "CrearPerfil",
+    "RelativePath": "api/Cliente/CrearPerfil",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cliente",
+        "Type": "CuentasBancariasLafise.Entidades.DTOS.ClienteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CuentasBancariasLafise.Controllers.CuentaController",
+    "Method": "RealizarTransaccion",
+    "RelativePath": "api/Cuenta/AplicarTransaccion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transaccion",
+        "Type": "CuentasBancariasLafise.Entidades.DTOS.TransaccionDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CuentasBancariasLafise.Controllers.CuentaController",
+    "Method": "ConsultarSaldo",
+    "RelativePath": "api/Cuenta/ConsultarSaldo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "NumeroCuenta",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CuentasBancariasLafise.Controllers.CuentaController",
+    "Method": "CrearCuenta",
+    "RelativePath": "api/Cuenta/Crear",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cuenta",
+        "Type": "CuentasBancariasLafise.Entidades.DTOS.CuentaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CuentasBancariasLafise.Controllers.CuentaController",
+    "Method": "HistorialTransacciones",
+    "RelativePath": "api/Cuenta/HistorialTransacciones",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "NumeroCuenta",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CuentasBancariasLafise.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CuentasBancariasLafise.WeatherForecast, CuentasBancariasLafise, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
