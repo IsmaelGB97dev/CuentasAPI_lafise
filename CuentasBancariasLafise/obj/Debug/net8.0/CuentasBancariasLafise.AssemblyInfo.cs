@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CuentasBancariasLafise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c899c0666e8e411a6c93da540ce1cdc6c92bd02")]
 [assembly: System.Reflection.AssemblyProductAttribute("CuentasBancariasLafise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CuentasBancariasLafise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

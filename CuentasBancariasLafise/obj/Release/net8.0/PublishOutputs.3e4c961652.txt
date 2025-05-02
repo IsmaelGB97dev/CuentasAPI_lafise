@@ -1,0 +1,16 @@
+C:\Users\ismae\OneDrive\Escritorio\LAFISE\CuentasBancariasLafise\CuentasBancariasLafise\obj\Release\net8.0\PubTmp\Out\CuentasBancariasLafise.exe
+C:\Users\ismae\OneDrive\Escritorio\LAFISE\CuentasBancariasLafise\CuentasBancariasLafise\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ismae\OneDrive\Escritorio\LAFISE\CuentasBancariasLafise\CuentasBancariasLafise\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\ismae\OneDrive\Escritorio\LAFISE\CuentasBancariasLafise\CuentasBancariasLafise\obj\Release\net8.0\PubTmp\Out\CuentasBancariasLafise.dll
+C:\Users\ismae\OneDrive\Escritorio\LAFISE\CuentasBancariasLafise\CuentasBancariasLafise\obj\Release\net8.0\PubTmp\Out\CuentasBancariasLafise.deps.json
+C:\Users\ismae\OneDrive\Escritorio\LAFISE\CuentasBancariasLafise\CuentasBancariasLafise\obj\Release\net8.0\PubTmp\Out\CuentasBancariasLafise.runtimeconfig.json
+C:\Users\ismae\OneDrive\Escritorio\LAFISE\CuentasBancariasLafise\CuentasBancariasLafise\obj\Release\net8.0\PubTmp\Out\CuentasBancariasLafise.pdb
+C:\Users\ismae\OneDrive\Escritorio\LAFISE\CuentasBancariasLafise\CuentasBancariasLafise\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\ismae\OneDrive\Escritorio\LAFISE\CuentasBancariasLafise\CuentasBancariasLafise\obj\Release\net8.0\PubTmp\Out\System.Data.SQLite.dll
+C:\Users\ismae\OneDrive\Escritorio\LAFISE\CuentasBancariasLafise\CuentasBancariasLafise\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ismae\OneDrive\Escritorio\LAFISE\CuentasBancariasLafise\CuentasBancariasLafise\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ismae\OneDrive\Escritorio\LAFISE\CuentasBancariasLafise\CuentasBancariasLafise\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ismae\OneDrive\Escritorio\LAFISE\CuentasBancariasLafise\CuentasBancariasLafise\obj\Release\net8.0\PubTmp\Out\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\ismae\OneDrive\Escritorio\LAFISE\CuentasBancariasLafise\CuentasBancariasLafise\obj\Release\net8.0\PubTmp\Out\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\ismae\OneDrive\Escritorio\LAFISE\CuentasBancariasLafise\CuentasBancariasLafise\obj\Release\net8.0\PubTmp\Out\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\ismae\OneDrive\Escritorio\LAFISE\CuentasBancariasLafise\CuentasBancariasLafise\obj\Release\net8.0\PubTmp\Out\runtimes\win-x86\native\SQLite.Interop.dll
