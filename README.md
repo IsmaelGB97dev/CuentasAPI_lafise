@@ -13,7 +13,7 @@
 	- 0: error controlado
 	- 1: exito
 	- 2: error no controlado
-- Data: objecto
+- Data: objeto
 - Mensaje: mensajes informativos
 
 # Tipos de transacciones (Endpoint AplicarTransaccion)
